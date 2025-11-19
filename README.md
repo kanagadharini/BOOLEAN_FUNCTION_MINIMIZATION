@@ -50,10 +50,14 @@ endmodule
 
 
 **RTL realization**
-<img width="1920" height="1080" alt="Screenshot (54)" src="https://github.com/user-attachments/assets/42c1f375-5150-4595-acc9-fab9cdaeda53" />
+<img width="433" height="395" alt="Screenshot 2025-11-19 102145" src="https://github.com/user-attachments/assets/87fb6b24-f7a4-4e83-9a7e-4e2c9a1ff370" />
+<img width="467" height="271" alt="Screenshot 2025-11-19 105710" src="https://github.com/user-attachments/assets/97021e67-1327-4ee7-a36a-a0576b23e1e9" />
+
 
 **Output:**
-<img width="1920" height="1080" alt="Screenshot (55)" src="https://github.com/user-attachments/assets/6cc8e7f7-67db-4e51-9416-663471c76c82" />
+<img width="1920" height="1080" alt="Screenshot (35)" src="https://github.com/user-attachments/assets/65e25bf5-0191-4ef1-97cd-830d059d7037" />
+<img width="1645" height="920" alt="Screenshot (38)" src="https://github.com/user-attachments/assets/576b9f26-2fde-4909-bcfa-9d8699908df7" />
+
 
 **RTL**
 
