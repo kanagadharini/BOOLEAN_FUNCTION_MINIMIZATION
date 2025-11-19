@@ -67,6 +67,4 @@ endmodule
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
 
-<img width="584" height="375" alt="Screenshot 2025-10-09 172821" src="https://github.com/user-attachments/assets/d56a6833-ab09-44da-b348-29d4564908ce" />
 
-<img width="1903" height="886" alt="Screenshot 2025-10-09 173104" src="https://github.com/user-attachments/assets/6dedb6fc-8779-4ee9-a46d-ba00b1c9ad07" />
